@@ -278,6 +278,10 @@ p {
   font-weight: 300;
 }
 
+a {
+  color: 6d6d6d;
+}
+
 p a {
   font-weight: 400;
 }
