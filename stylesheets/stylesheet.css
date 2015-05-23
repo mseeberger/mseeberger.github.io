@@ -379,6 +379,15 @@ img.center {
 	margin-right: auto;
 }
 
+.center div {
+	text-align: center;
+}
+
 #martina {
-  margin-top: 38px;	
+  margin-top: 38px;
+}
+
+.impressum {
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
